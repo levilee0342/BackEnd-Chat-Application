@@ -45,7 +45,7 @@ This project is a robust **Back-End Chat Application** designed to handle user a
 ### Setup Instructions:
 ** 1. Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/chat-backend.git
+   git clone  https://github.com/levilee0342/BackEnd-Chat-Application
    cd chat-backend
    ```
 ** 2. Install Dependencies**:
